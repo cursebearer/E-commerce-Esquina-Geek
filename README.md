@@ -1,5 +1,7 @@
 # E-commerce Esquina Geek
 
+https://app.eraser.io/workspace/87qqIlFRlymQq7XefaMo
+
 ## Requisitos
 Acesse os [Requisitos](./requisitos.md) para entender as especificações funcionais e não funcionais do sistema.
 
