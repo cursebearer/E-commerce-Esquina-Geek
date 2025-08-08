@@ -1,5 +1,9 @@
 # E-commerce Esquina Geek
 
+# Jira
+
+Acesse o [Jira](https://e-commerce-esquina-geek.atlassian.net/jira/software/projects/DEV/boards/1) para acompanhar a atribuição e execução das atividades, bem como consultar as especificações funcionais e não funcionais do sistema.
+
 # Modelos
 
 https://app.eraser.io/workspace/87qqIlFRlymQq7XefaMo
@@ -8,14 +12,23 @@ https://app.eraser.io/workspace/87qqIlFRlymQq7XefaMo
 
 https://www.figma.com/design/fOYjeERDhn5g6cn7mCciiW/E-commerce?node-id=0-1&p=f
 
-## Requisitos
+# Padrões de Desenvolvimento
 
-Acesse os [Requisitos](./docs/patterns/requisitos.md) para entender as especificações funcionais e não funcionais do sistema.
+- [Conventional Commits](./docs/patterns/conventional-commits.md)
+- [Pull Requests](./docs/patterns/pull-requests.md)
 
-## Arquitetura
+# Releases
 
-Confira a [Arquitetura](./docs/architecture.md) do sistema, com detalhes sobre as camadas e containers.
+- [Releases](./docs/releases.md)
 
-## Modelagem
+# Arquitetura
 
-Explore a [Modelagem](./docs/modeling.md) do sistema para uma visão detalhada sobre os módulos e containers envolvidos.
+- [Architecture](./docs/architecture.md)
+
+# Requisitos
+
+- [Requirements](./docs/requirements.md)
+
+# Modelagem
+
+- [Modeling](./docs/modeling.md)
